@@ -10,3 +10,4 @@ emp = Employess("Subhan" , 6000 , "03090050458")
 print(emp.name)
 print(emp._salary)
 print(emp.__ssn)
+print(emp._Employess__ssn)  #  this is accessable but this is bad practice 
